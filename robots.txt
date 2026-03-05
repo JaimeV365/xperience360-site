@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /test-logo-colors/
+
+Sitemap: https://xperience-360.com/sitemap.xml

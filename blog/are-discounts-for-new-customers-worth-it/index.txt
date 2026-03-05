@@ -1,0 +1,590 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[9356,["972","static/chunks/972-f99e1563959375ff.js","878","static/chunks/878-36c920e28fa21e83.js","185","static/chunks/app/layout-0919df5efa757430.js"],"default"]
+7:I[2972,["972","static/chunks/972-f99e1563959375ff.js","878","static/chunks/878-36c920e28fa21e83.js","308","static/chunks/app/blog/%5Bslug%5D/page-1697bbb6f4bb7c6c.js"],""]
+4:["slug","are-discounts-for-new-customers-worth-it","d"]
+0:["MTZP1z5SiaQr9EMIa2Dwc",[[["",{"children":["blog",{"children":[["slug","are-discounts-for-new-customers-worth-it","d"],{"children":["__PAGE__?{\"slug\":\"are-discounts-for-new-customers-worth-it\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","are-discounts-for-new-customers-worth-it","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4e649fe882abce23.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  const theme = localStorage.getItem('theme');\n                  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  if (theme === 'dark' || (!theme && prefersDark)) {\n                    document.documentElement.classList.add('dark');\n                  }\n                } catch (e) {}\n              })();\n            "}}]}],["$","body",null,{"className":"__variable_c70c06 font-sans","children":[["$","a",null,{"href":"#main-content","className":"skip-link","children":"Skip to main content"}],["$","$L6",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"pt-32 pb-20 min-h-screen flex items-center justify-center bg-gradient-to-b from-white to-gray-50 dark:from-dark dark:to-gray-900","children":["$","div",null,{"className":"container-custom text-center max-w-2xl px-4","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-9xl md:text-[12rem] font-bold text-primary mb-4 leading-none","children":"404"}],["$","div",null,{"className":"w-24 h-1 bg-primary mx-auto mb-6"}]]}],["$","h2",null,{"className":"heading-2 mb-6 text-gray-900 dark:text-white","children":"Page Not Found"}],["$","p",null,{"className":"body-text text-lg text-gray-600 dark:text-gray-400 mb-10 max-w-lg mx-auto","children":"Sorry, we couldn't find the page you're looking for. It may have been moved, deleted, or the URL might be incorrect."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center items-center","children":[["$","$L7",null,{"href":"/","className":"btn-primary inline-flex items-center justify-center group","aria-label":"Go to homepage","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-home w-5 h-5 mr-2 group-hover:scale-110 transition-transform","aria-hidden":"true","children":[["$","path","y5dka4",{"d":"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],["$","polyline","e2us08",{"points":"9 22 9 12 15 12 15 22"}],"$undefined"]}],"Go Home"]}],["$","$L7",null,{"href":"/blog","className":"btn-secondary inline-flex items-center justify-center group","aria-label":"Browse blog posts","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-search w-5 h-5 mr-2 group-hover:scale-110 transition-transform","aria-hidden":"true","children":[["$","circle","4ej97u",{"cx":"11","cy":"11","r":"8"}],["$","path","1qie3q",{"d":"m21 21-4.3-4.3"}],"$undefined"]}],"Browse Blog"]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-800","children":["$","$L7",null,{"href":"/","className":"inline-flex items-center text-primary hover:text-primary-dark dark:hover:text-primary transition-colors text-sm font-medium","aria-label":"Back to homepage","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4 mr-2","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Return to Homepage"]}]}]]}]}],"notFoundStyles":[]}]}]]}]]}]],null],null],["$L8",null]]]]
+a:I[8424,["972","static/chunks/972-f99e1563959375ff.js","878","static/chunks/878-36c920e28fa21e83.js","308","static/chunks/app/blog/%5Bslug%5D/page-1697bbb6f4bb7c6c.js"],"default"]
+f:I[4114,["972","static/chunks/972-f99e1563959375ff.js","878","static/chunks/878-36c920e28fa21e83.js","308","static/chunks/app/blog/%5Bslug%5D/page-1697bbb6f4bb7c6c.js"],"default"]
+10:I[5878,["972","static/chunks/972-f99e1563959375ff.js","878","static/chunks/878-36c920e28fa21e83.js","308","static/chunks/app/blog/%5Bslug%5D/page-1697bbb6f4bb7c6c.js"],"Image"]
+9:T45b,{"@context":"https://schema.org","@type":"BlogPosting","headline":"Are Discounts for New Customers Worth It?","description":"Is it more profitable to acquire new customers or retain existing ones? Discover why new-customer-only discounts may hurt your bottom line and learn data-driven strategies for customer retention vs acquisition campaigns.","datePublished":"2024-12-14 15:03:10","dateModified":"2024-12-14 15:03:10","author":{"@type":"Person","name":"Jaime Valle","url":"https://www.linkedin.com/in/jaimevuk/"},"publisher":{"@type":"Organization","name":"Xperience 360","logo":{"@type":"ImageObject","url":"https://xperience-360.com/logo.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://xperience-360.com/blog/are-discounts-for-new-customers-worth-it"},"keywords":"customer retention, customer acquisition, discounts, marketing strategy, customer lifetime value, CLV, customer loyalty, pricing strategy, customer experience, CX, business strategy, revenue optimization, customer value, retention vs acquisition, customer campaigns, loyalty programs, customer profitability","articleSection":"Blog"}b:T9f69,<p class="mb-6">Have you ever seen an offer or discount 'for new customers only'? It's a great marketing and sales tactic to attract new customers, but what about existing ones? How do you feel when your bank or supermarket offers discounts and promotions to new customers but excludes you? Do you take this as an invitation to go shopping elsewhere? These campaigns are undoubtedly designed to meet sales requirements and internal acquisition targets. No mystery there.</p><p class="mt-6 mb-6">But is it factfully more profitable for the company at the end of the year to acquire 100 new customers or, on the contrary, to retain 100 existing ones? We would all agree that the solution is to have a strategy combining retention and acquisition. But let's explore these different scenarios and assess their true profitability.</p>
+<h3 id="is-it-more-profitable-to-get-100-new-customers-or-retain-100-existing-ones"><strong>Is it more profitable to get 100 new customers or retain 100 existing ones?</strong></h3>
+<p class="mb-6">Imagine a company, RetailCo running three different campaign strategies:</p>
+<h4 id="ucampaign-au-50-discount-for-new-customers-only"><u>Campaign A</u>: 50% discount for new customers only.</h4>
+<p class="mb-6">Let's consider a customer spends £100 per order on average, so with this discount, each new customer generates £50 in revenue on their first purchase. If RetailCo acquires 100 new customers, the initial revenue would be £50 x 100 = £5,000.</p><p class="mt-6 mb-6">After that first purchase, some of those 100 buyers will take the offer to make a one-off purchase and won't stay loyal. Let's assume a maximum of 25% of those new customers (25) return to make at least another purchase at full price (£100) over the year. This would give:</p>
+<ul>
+<li>Initial revenue: 100 customers × £50 = £5,000</li>
+<li>Additional purchases from retained customers (25 customers making 1 further purchase at £100): 25 customers × £100 = £2,500</li>
+<li>Total revenue for Campaign A: £5,000 + £2,500 = <u>£7,500</u></li>
+</ul>
+<p class="mb-6">So in total, Campaign A brings in at least £7,500 (£5,000 from the initial purchases and £2,500 from returning buyers).</p><p class="mt-6 mb-6">We could assume that some second-time buyers would keep buying for a third time and maybe more. But let's keep things simple in this exercise.</p>
+<h4 id="ucampaign-bu-50-discount-for-existing-customers-only"><u>Campaign B</u>: 50% discount for existing customers only.</h4>
+<p class="mb-6">In this scenario, RetailCo reaches 100 existing customers who, under the same conditions, take advantage of the 50% discount and initially spend £50 each. Since these customers are potentially already loyal, their retention rate should be higher than in Campaign A. Let's assume a slight increase for returning customers in this case, and take up to 30 second-time buyers, who will make additional purchases at full price over the year, rather than 25 from Campaign A.</p>
+<ul>
+<li>Initial revenue from existing customers: £50 x 100 customers = £5,000</li>
+<li>Additional purchases from repeating customers (30 customers making 1 further purchase at £100): 30 customers × £100 = £3,000</li>
+<li>Total revenue for Case B: £5,000 + £3,000 = <u>£8,000</u></li>
+</ul>
+<p class="mb-6">Again, we are ignoring third-time buyers and beyond for simplicity. Then, Campaign B totals £8,000 in revenue, compared to the £7,500 from the new customer-only campaign (Campaign A).</p>
+<p class="mb-6"><strong>So with a small sample of 100 customers</strong>, with a very simplified scenario where we are only looking at a maximum of 2 purchases a year, and assuming only a 5% difference between the returning customers between campaigns A and B, <strong>we have already increased £500 of gross revenue</strong>. <strong>Almost 7% increase</strong>. Not to mention the potential word-of-mouth and positive recommendations from happy customers in this campaign, instead of a likely loss of loyal customers who would surely feel angrily excluded in the Campaign A scenario.</p>
+<h4 id="ucampaign-cu-50-discount-for-everyone"><u>Campaign C</u>: 50% discount for everyone.</h4>
+<p class="mb-6">RetailCo is now launching a mixed campaign both for new and existing customers. Since we are now targeting a larger group of prospects, let's also assume a slightly higher number of customers who buy in this campaign, say 150. And to keep it realistic, let's say only 30% of them are new customers and 70% are pre-existing customers. So out of 150 total customers, 45 are new, and 105 are existing.</p><p class="mt-6 mb-6">Let's make the same assumptions as we did for previous campaigns, so we can compare them.</p>
+<p class="mb-6">As with the previous cases, we assume 75% of new customers make only an initial purchase, and the other 25% make at least one more purchase.</p><p class="mt-6 mb-6">For existing customers, we assume 30% retention as we did before, so we count on our customers to make at least one additional purchase at full price.</p>
+<ul>
+<li>
+<p class="mb-6">New customers:</p>
+<ul>
+<li>First purchase revenue (same conditions as Campaign A but for 45 new customers): 45 customers × £50 = £2,250</li>
+<li>Additional purchases from retained new customers (25% out of 45 customers making a second purchase at £100): 11.25 customers × £100 = £1,125</li>
+<li>Total from new customers = £2,250 + £1,125 = <u>£3,375</u></li>
+</ul>
+</li>
+<li>
+<p class="mb-6">Existing customers:</p>
+<ul>
+<li>First purchase revenue (same conditions as Campaign B but for 105 existing customers): 105 customers × £50 = £5,250</li>
+<li>Additional purchases from retained existing customers (30% out of 105 customers making a second purchase at £100): 31.5 customers × £100 = £3,150</li>
+<li>Total from existing customers: £5,250 + £3,150 = <u>£8,400</u></li>
+</ul>
+</li>
+<li>
+<p class="mb-6">Total revenue from Campaign C: £3,375 + £8,400 = <u>£11,775</u></p>
+</li>
+</ul>
+<p class="mb-6">While Campaign C clearly generates the highest revenue (£11,775), it's important to note that this is partially due to the larger sample size of 150 customers compared to Campaigns A and B (100 customers each). This broader reach naturally inflates the total revenue. That said, even with conservative assumptions, Campaign C shows the value of balancing acquisition and retention efforts. By targeting both new and existing customers, it captures revenue from a diverse group, maximising profitability.</p>
+<p class="mb-6">From this analysis, it's evident that campaigns <strong>combining acquisition and retention</strong> efforts (like Campaign C) <strong>offer the highest potential revenue</strong>. While the larger sample size contributes to this outcome, the strategy also demonstrates strong revenue potential <strong>even with modest retention rates</strong>. Adjust these assumptions to reflect your business context, and you'll likely find that a mixed strategy is often the most profitable.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Revenue-Comparison-data.png" alt="Campaign Revenue Comparison in three columns"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Revenue-Graph.png" alt="Revenue Graph"></p>
+<h3 id="retention-rate"><strong>Retention Rate</strong></h3>
+<p class="mb-6">Before we dive into more complex metrics, we should quickly look at the Retention Rate, which measures the percentage of customers who make repeat purchases, indicating customer satisfaction and loyalty. A higher retention rate suggests that customers find value in the product or service and are likely to continue their relationship with the brand.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Retention-Rate-table.png" alt="Retention Rate Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Retention-Rate-graph.png" alt="Retention Rate Comparison Graph"></p>
+<p class="mb-6">As we would all expect, <strong>existing customers are more loyal</strong> with Campaign B achieving the highest retention rate (30%). The mixed approach (Campaign C) maintains a healthy retention rate of 28.5%, suggesting that including existing customers in promotions helps to maintain loyalty. The modest retention assumption of 25% for new-customers-only Campaign A also indicates that some new customers can be converted into repeat buyers.</p>
+<h3 id="average-order-value-aov"><strong>Average Order Value (AOV)</strong></h3>
+<p class="mb-6">Another quick stop can be made on this commonly used KPI to better understand and anticipate the customer expenditure for each of those scenarios. Average Order Value tracks the average amount spent by customers per transaction. By understanding AOV, businesses can assess the effectiveness of their pricing strategies, discount campaigns, and overall revenue potential.</p><div class="h-8"></div><p class="mb-6"><img src="/images/AOV-Comparison-table.png" alt="AOV Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/AOV-Comparison-graph.png" alt="AOV Comparison graph"></p><p class="mt-6 mb-6">Although the difference in AOV between the campaigns is relatively small due to the small sample of customers considered, we can see that Campaign B (existing customers) leads with the highest AOV (£65), demonstrating that existing customers tend to generate more value per order. The mixed Campaign C achieves a balanced AOV (£63.50), showing that including both customer segments can maintain high order values. The new customer scenario (Campaign A) has the lowest AOV (£62.50), again demonstrating the limited benefits of focusing on new customers only.</p>
+<p class="mb-6">All campaigns show significant improvement from the initial £50 discounted order to the £100 full-price repeat purchase.</p>
+<h3 id="customer-lifetime-value-clv"><strong>Customer Lifetime Value (CLV)</strong></h3>
+<p class="mb-6">As we saw at the beginning of this article, Campaign C is likely to generate the highest total revenue (£11,775). Now it's worth asking: what about the value of each campaign over the year?</p><p class="mt-6 mb-6">This is where Customer Lifetime Value (CLV) comes in. CLV measures customers' total financial contribution throughout their relationship with a company. Understanding this metric helps to assess which campaigns are truly delivering long-term value.</p>
+<p class="mb-6">The initial discount investment often reduces margins when the focus is on new customer acquisition. Many new customers acquired through promotions may not stay for the long term, lowering the overall CLV. However, existing customers may already trust the brand and spend consistently. If neglected, their lifetime value will plummet, making any acquisition gains look minimal by comparison.</p><p class="mt-6 mb-6">So for our three campaign scenarios, the CLV would be as follows</p>
+<p class="mb-6"><u>Campaign A (new customers)</u>:
+Campaign A focuses on attracting new customers with promotions. Our conservative assumption is that 25 out of 100 customers will make additional purchases. This limits the growth in CLV throughout the year, resulting in the lowest cumulative value at the end of the year.</p>
+<p class="mb-6"><u>Campaign B (existing customers)</u>:
+Campaign B is designed to maximise the loyalty of existing customers, and we used a higher retention rate of 30% because we are counting on customers within this sample who are already loyal and will use the promotion to make purchases they would have made anyway. These loyal customers drive steady revenue growth, resulting in the highest CLV at the end of the year.</p>
+<p class="mb-6"><u>Campaign C (Mixed campaign)</u>:
+Campaign C takes a balanced approach, splitting resources between new and existing customers. New customer retention remains at 25% while existing customer retention is 30%. Although Campaign C generates more total revenue than Campaign A, its CLV does not exceed that of Campaign B due to the higher retention rates and recurring spending patterns of existing customers.</p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-table-A.png" alt="CLV Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-table-B.png" alt="CLV Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-table-C.png" alt=""></p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Summary-Table-1.png" alt="CLV Summary Table"></p><p class="mt-6 mb-6">The graph below visualizes the final CLV values for each campaign. By comparing the cumulative value generated by customers in each campaign, it highlights the distinct strengths and weaknesses of these strategies.</p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-graph.png" alt="CLV Comparison graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">To produce this graph, we've built on our existing data while making some practical assumptions to keep the analysis simple:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>We've limited our analysis to a maximum of two purchases per customer and assumed that all second purchases are made at full price (£100).</li></li><li>We've also used our retention rates as a proxy for perceived value. While this gives us a good indication of customer satisfaction, real-world perceived value can be influenced by many other factors.</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Based on this analysis, <strong>Campaign B (Existing Customers</strong> Only) proves to be <strong>the most effective</strong> in terms of Customer Lifetime Value, achieving the highest CLV of £80 per customer.</p>
+<p class="mb-6">This superiority is driven by the <strong>higher retention rat</strong>e of 30% for existing customers, compared to the 25% retention rate for new customers, combined with their willingness to make repeat purchases at full price.</p>
+<p class="mb-6">While <strong>Campaign C (Mixed) generates higher total revenue</strong> due to its larger customer base, and <strong>Campaign A (New Customers) helps to expand the customer base</strong>, Campaign B's focus on existing customers maximises the value generated per customer.</p><p class="mt-6 mb-6">This is consistent with the well-established principle that retaining and nurturing existing customer relationships is often more cost-effective than acquiring new ones. The results suggest that prioritising customer retention and loyalty through targeted promotions to existing customers could be the most profitable strategy for maximising CLV.</p>
+<h3 id="relative-perceived-value-map"><strong>Relative Perceived Value Map</strong></h3>
+<p class="mb-6">The Relative Perceived Value Map shows how customers perceive the value they receive from your product or service compared to the competition. If new customers consistently receive better offers, existing customers may feel undervalued and their perceived value of your brand will decrease. If they feel marginalised, they are more likely to switch to competitors who offer them more attention or better rewards, reducing overall brand loyalty and engagement.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Calculations-A.png" alt="Relative Perceived Value Map Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Calculations-B.png" alt="Relative Perceived Value Map Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Calculations-C.png" alt="Relative Perceived Value Map Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Graph.png" alt="Relative Perceived Value Map Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">To produce this graph, we've built on our existing data while making some practical assumptions to keep the analysis simple:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>We've limited our analysis to a maximum of two purchases per customer and assumed that all second purchases are made at full price (£100).</li></li><li>We've also used our retention rates as a proxy for perceived value. While this gives us a good indication of customer satisfaction, real-world perceived value can be influenced by many other factors.</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Based on the Relative Perceived Value Map, we can draw several interesting conclusions:</p>
+<p class="mb-6"><u>Campaign A (New Customers)</u> presents a <strong>less than optimal</strong> position:</p>
+<ul>
+<li>Higher relative price (60%) but lowest benefit (25% retention).</li>
+<li>This suggests that new customers pay more but receive less perceived value.</li>
+<li>This could indicate a <strong>risk of losing these customers</strong> to competitors after their first purchase.</li>
+</ul>
+<p class="mb-6"><u>Campaign B (Existing Customers)</u> shows the <strong>most favourable</strong> position on the map because:</p>
+<ul>
+<li>It offers the lowest relative price (57.69%) while delivering the highest value (30% retention).</li>
+<li>This combination suggests it offers the best value proposition to customers.</li>
+<li>It rewards loyalty which <strong>strengthens long-term customer relationships</strong>.</li>
+</ul>
+<p class="mb-6"><u>Campaign C (Mixed)</u> shows an interesting middle ground:</p>
+<ul>
+<li>Highest relative price (61.08%) with moderate benefits (28.5% retention).</li>
+<li>The balanced retention rate makes sense as it mixes both types of customers.</li>
+<li>However, the higher average price may not justify the moderate benefits.</li>
+</ul>
+<p class="mb-6">Key Strategic Implications:</p>
+<ol>
+<li>Campaign B's approach of rewarding existing customers appears to be the most effective in balancing price and value.</li>
+<li>The higher churn rate in Campaign A suggests that the new customer discount may not be enough to build lasting relationships.</li>
+<li>Campaign C's mixed approach reaches more customers but doesn't seem to optimise either price or perceived value.</li>
+</ol>
+<p class="mb-6">These findings suggest that more resources should be focused on retaining and rewarding existing customers.</p>
+<h3 id="failure-demand"><strong>Failure Demand</strong></h3>
+<p class="mb-6">Another business KPI we can look at is Failure Demand, which refers to the additional work created when businesses fail to meet customer expectations. It represents demand driven by inefficiencies, such as the need for clarification, error correction or reworking of unresolved issues.</p><p class="mt-6 mb-6">In this context of customer acquisition and retention campaigns, offering discounts exclusively to new customers can frustrate existing customers, leading to complaints and negative word-of-mouth. Frustratingly, this can lead to higher operational costs and damage the overall customer experience.</p>
+<p class="mb-6">Back to the ground, let's estimate Failure Demand percentages for the three campaigns based on typical patterns:</p>
+<p class="mb-6"><u>Campaign A (New Customers Only)</u>: New customers often require significant support due to onboarding challenges or lack of familiarity with the product or service. Let's assume a minimum failure rate of 20% for Campaign A.</p>
+<p class="mb-6"><u>Campaign B (Existing Customers Only)</u>: Existing customers already familiar with the product, generally require less support. However, a failure demand can still occur if the campaign terms are unclear or unexpected issues arise. Let's assume a conservative failure rate of 5%.</p>
+<p class="mb-6"><u>Campaign C (Mixed Campaign)</u>: Given the mixture of the previous cases, we should estimate a 12.5% failure demand. This scenario reduces the Failure Demand but doesn't eliminate it.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Failure-Demand-graph.png" alt="Failure Demand graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">These failure demand estimates are based on typical patterns observed in retail discount campaigns:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Calculations consider the primary drivers of support requests: product familiarity, campaign clarity, and customer experience</li></li><li>Percentages represent the proportion of transactions that generate additional support work</li></li><li>The mixed campaign (C) uses a weighted average based on the customer mix (30% new, 70% existing)</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">In summary, Campaign A <strong>(new customers) shows the highest Failure Demand</strong> (20%), as new customers require more support and clarification during onboarding.</p><p class="mt-6 mb-6">Campaign B has the lowest Failure Demand (5%), reflecting existing customers' familiarity with products and processes</p>
+<p class="mb-6">Campaign C maintains a moderate level (12.5%), balancing the higher support needs of new customers with the efficiency of serving existing customers.</p><p class="mt-6 mb-6">The variation in Failure Demand has a direct impact on the operational costs and resource requirements of each campaign.</p>
+<h3 id="earned-growth-rate-egr"><strong>Earned Growth Rate (EGR)</strong></h3>
+<p class="mb-6">Also relevant to this exercise is the Earned Growth Rate (EGR), which measures the percentage of revenue growth generated by returning customers and referrals, and shows how much your existing customers contribute to growth.</p><p class="mt-6 mb-6">Businesses focusing exclusively on new customer offers (such as Campaign A) may experience lower EGR as loyal customers feel undervalued. On the other hand, campaigns that value existing customers (Campaign B) are more likely to generate referrals, creating a cycle of advocacy-driven growth. Mixed campaigns (Campaign C) fall somewhere between acquiring new customers and retaining existing ones, as they affect both loyalty and advocacy.</p>
+<p class="mb-6">In our scenarios, let's assume:</p>
+<p class="mb-6"><u>Campaign A</u>: 5% EGR, as new customers are less likely to advocate immediately.</p>
+<p class="mb-6"><u>Campaign B</u>: Let's take 20% EGR, driven by loyal customers and a higher likelihood to recommend.</p>
+<p class="mb-6"><u>Campaign C</u>: We can assume a balanced 15% EGR, benefiting from a mix of customer types.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Earned-Growth-Rate-EGR-Graph.png" alt="Earned Growth Rate EGR Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">The EGR calculations are based on:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Revenue growth from returning customers and their referrals</li></li><li>Customer advocacy patterns typical in retail discount campaigns</li></li><li>Correlation with retention rates from previous analyses</li></li><li>Impact of campaign type on customer loyalty and word-of-mouth</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Campaign B <strong>(existing customers) has the highest EGR</strong> (20%), reflecting its strong retention rate and focus on existing customer relationships.</p><p class="mt-6 mb-6">Campaign A's low EGR (5%) reflects the challenges of building advocacy among new customers.</p>
+<p class="mb-6">Campaign C's balanced approach (15%) shows how mixed strategies can benefit both customer acquisition and retention.</p>
+<h3 id="net-easy-score-nes"><strong>Net Easy Score (NES)</strong></h3>
+<p class="mb-6">Net Easy Score (NES) measures how effortless it is for customers to interact with your organisation across all touch points. This metric focuses on the operational smoothness of customer interactions - from purchases and account management to support requests and problem resolution. By tracking NES, businesses can identify friction points in the customer journey and optimise processes to reduce customer effort.</p><p class="mt-6 mb-6">Although NES is a critical metric in real-world business operations, we have excluded it from our quantitative analysis of the three campaigns. Including it would require significant additional data on customer experiences and interaction patterns that would be purely speculative in our scenario-based study. Making such assumptions could reduce the realism of our analysis.</p>
+<p class="mb-6">Nevertheless, it's important to note that campaigns like the ones we are analysing would, in practice, be integral parts of different customer journeys. The ease of interaction would vary between new and existing customers, and NES would be a key factor in determining the overall success of these promotional strategies in the real world.</p>
+<h3 id="customer-churn-rate"><strong>Customer Churn Rate</strong></h3>
+<p class="mb-6">Customer churn rate is the percentage of customers who stop doing business with you. Discounts for new customers are often a short-term fix, but the real danger lies in neglecting those who are already loyal. High churn rates can be exacerbated by poor retention strategies, causing long-term damage to your revenue. Each churned customer represents the loss of their future value, often far outweighing the benefit of a one-off new customer discount.</p><p class="mt-6 mb-6">Let's calculate the different churn rates for our three campaigns then:</p>
+<ol>
+<li>
+<p class="mb-6"><u>Campaign A: New Customers Only</u>: We have set a minimum retention for this campaign as these customers are primarily discount driven. Let's assume a high churn rate, at least <strong>75%</strong> within a year.</p>
+</li>
+<li>
+<p class="mb-6"><u>Campaign B: Existing Customers Only</u>: We have set a loyalty level of 30% for this campaign, so we have a churn rate of <strong>70%</strong> for existing customers who take advantage of seasonal campaigns.</p>
+</li>
+<li>
+<p class="mb-6"><u>Campaign C: Mixed Campaign</u>: Based on the previous calculations where we increased the scope to 150 for the mixed campaign, we expect 75% of the 45 new customers to churn and 70% of the 105 to churn. This gives a total churn rate of <strong>71.5%</strong>.</p>
+</li>
+</ol>
+<p class="mb-6"><img src="/images/Customer-Churn-Rate-Calculations.png" alt="Customer Churn Rate Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Customer-Churn-Rate-Graph.png" alt="Customer Churn Rate Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">The Churn Rate calculations are based on:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Initial customer base of 100 customers for single-target campaigns (A &#x26; B)</li></li><li>Expanded customer base of 150 for the mixed campaign (C)</li></li><li>Tracking of customer retention over a one-year period</li></li><li>Differentiated retention rates between new and existing customers</li></li><li>Historical purchase patterns and customer behavior analysis</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Campaign A <strong>(new customers) has the highest churn rate</strong> (75%), highlighting the challenge of retaining discount-driven new customers. In real-life scenarios, this churn rate would probably be higher in most cases. Many factors have a significant impact on customer churn in a new customer-only campaign, such as product category, acquisition channels, seasonality, etc.</p>
+<p class="mb-6"><strong>Existing customer campaign (B) has the lowest churn rate</strong> (70%), reflecting the stronger loyalty of existing customers even in discount scenarios.</p><p class="mt-6 mb-6">The 5% difference in churn rates between Campaigns A and B represents a minimal difference that would normally be higher in real life. It highlights the value of nurturing existing customer relationships.</p>
+<p class="mb-6">Campaign C (Mixed) achieves a balanced churn rate (71.5%), successfully managing the mix of new and existing customers.</p>
+<h3 id="repeat-purchase-rate"><strong>Repeat Purchase Rate</strong></h3>
+<p class="mb-6">This metric measures how often customers return to make a purchase. Existing customers without loyalty incentives are somewhat less likely to return. Instead of encouraging repeat business, companies may be unintentionally driving away loyal customers with these 'new customer' promotions. If existing customers aren't encouraged to make additional purchases, their overall lifetime value and profitability are reduced.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Repeat-Purchase-Rate-Calculations.png" alt="Repeat Purchase Rate Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Repeat-Purchase-Rate-Graph.png" alt="Repeat Purchase Rate Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">The Repeat Purchase Rate calculations are based on:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Direct tracking of customer repeat purchases over the campaign period</li></li><li>Distinction between new and existing customer behavior patterns</li></li><li>Analysis of purchase frequency among different customer segments</li></li><li>Consideration of discount impact on purchase decisions</li></li><li>Evaluation of customer loyalty indicators across campaigns</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Campaign A, which focuses solely on <strong>new customers, has the lowest RPR</strong> at 25%, even taking into account that we have assumed this retention rate to be the maximum. The fact that new customers produce the lowest RPR reflects the challenge of converting discount-driven first-time buyers into repeat customers.</p>
+<p class="mb-6">Campaign B, targeting <strong>existing customers, achieves the highest RPR</strong> at 30%, confirming that loyal customers are more likely to make repeat purchases, even in discount scenarios. As with Campaign A, we assume that the retention rate we have set is a maximum, so in reality, the difference in RPR between Campaigns A and B would be higher.</p><p class="mt-6 mb-6">Campaign C falls in the middle with an RPR of 28.5%, benefiting from the mixed approach that combines the higher repeat purchase propensity of existing customers (30% of 105 customers) with the lower rate of new acquisition (25% of 45 customers).</p>
+<p class="mb-6">These findings confirm that while new customer acquisition is important, maintaining and nurturing existing customer relationships leads to better repeat purchase behaviour and potentially higher long-term value.</p>
+<h3 id="other-relevant-kpis"><strong>Other Relevant KPI's</strong></h3>
+<p class="mb-6"><strong>Customer Acquisition Cost (CAC)</strong></p><p class="mt-6 mb-6">Customer Acquisition Cost (CAC) is a fundamental business metric that measures the total cost of acquiring a new customer. It includes all marketing and sales expenses, including advertising costs, marketing team salaries, tools and software, and promotional costs such as discounts.</p>
+<p class="mb-6">While CAC would be highly relevant to the analysis of our three campaign scenarios, calculating it would require making numerous assumptions about marketing budgets, operational costs, and campaign costs, which would be purely speculative given our limited data set. With our sample size of 100-150 customers, any CAC calculations would be based on arbitrary cost assumptions that may not reflect real-world conditions or be scalable to larger customer bases.</p><p class="mt-6 mb-6">However, in actual business implementations of these discount strategies, CAC would be a crucial metric for evaluating campaign effectiveness and determining the true cost of acquiring customers through different promotional approaches.</p>
+<p class="mb-6"><strong>Return on Investment (ROI)</strong></p><p class="mt-6 mb-6">Return on Investment (ROI) is a critical and widely used performance metric that measures the profitability of an investment relative to its cost. For discount campaigns such as those in our study, ROI would typically consider all campaign costs (marketing, operations, discounts) against the revenue generated from both initial and repeat purchases.</p>
+<p class="mb-6">However, calculating ROI for our scenarios would require making significant assumptions about investment costs, which we cannot reliably estimate with our limited data set. While we have clear revenue figures from customer purchases, the investment side of the equation would include speculative costs for campaign execution, marketing and operations. Such assumptions could lead to misleading ROI calculations that don't accurately reflect real-world campaign performance.</p><p class="mt-6 mb-6">Nevertheless, in actual business implementations, ROI would be an essential metric for evaluating the financial success of these different discount strategies and determining which approach delivers the best returns.</p>
+<p class="mb-6"><strong>Net Promoter Score℠ (NPS®)</strong></p><p class="mt-6 mb-6">NPS® measures the likelihood of customers recommending your brand to others. This KPI is closely linked to customer sentiment, which can suffer if loyal existing customers feel overlooked in favour of new ones. Offering better deals exclusively to new customers can make long-standing customers feel undervalued, potentially turning them into detractors or worse, leaving you for your competitors.</p>
+<p class="mb-6">As a result, your overall NPS may drop. Instead of encouraging positive, organic word-of-mouth, the brand risks negative feedback that damages its reputation and undermines acquisition efforts. Balancing incentives for both new and existing customers is essential to maintain high NPS scores and ensure customer advocacy.</p>
+<p class="mb-6"><em>Net Promoter®, NPS®, NPS Prism®, and the NPS-related emoticons are registered trademarks of Bain &#x26; Company, Inc., NICE Systems, Inc., and Fred Reichheld. Net Promoter Score℠ and Net Promoter System℠ are service marks of Bain &#x26; Company, Inc., NICE Systems, Inc., and Fred Reichheld.</em></p>
+<h3 id="summary"><strong>Summary</strong></h3>
+<p class="mb-6">Let's capitulate, all the metrics we have analysed and been able to quantify seem to point in the same direction: <strong>Campaign A (new customers) is not the top performer in any of the KPIs</strong> we took. Not one.</p><p class="mt-6 mb-6">So let's find out which campaign is the winner.</p>
+<table class="summary-table">
+  <thead>
+    <tr>
+      <th>KPI</th>
+      <th>Campaign A (New)</th>
+      <th>Campaign B (Existing)</th>
+      <th>Campaign C (Mixed)</th>
+      <th>Winner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total Revenue</td>
+      <td>£7,500</td>
+      <td>£8,000</td>
+      <td class="winner">£11,775</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Retention Rate</td>
+      <td>25%</td>
+      <td class="winner">30%</td>
+      <td>28.5%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Average Order Value</td>
+      <td>£62.50</td>
+      <td class="winner">£65.00</td>
+      <td>£63.50</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Customer Lifetime Value</td>
+      <td>£75.00</td>
+      <td class="winner">£80.00</td>
+      <td>£78.50</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Relative Price</td>
+      <td>60%</td>
+      <td class="winner">57.69%</td>
+      <td>61.08%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Failure Demand</td>
+      <td>20%</td>
+      <td class="winner">5%</td>
+      <td>12.5%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Earned Growth Rate</td>
+      <td>5%</td>
+      <td class="winner">20%</td>
+      <td>15%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Customer Churn Rate</td>
+      <td>75%</td>
+      <td class="winner">70%</td>
+      <td>71.5%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Repeat Purchase Rate</td>
+      <td>25%</td>
+      <td class="winner">30%</td>
+      <td>28.5%</td>
+      <td>B</td>
+    </tr>
+    <tr class="total-row">
+      <td>Total Wins</td>
+      <td>0</td>
+      <td class="winner">8</td>
+      <td>1</td>
+      <td>B</td>
+    </tr>
+  </tbody>
+</table>
+<p class="mb-6"><strong>Final Verdict:</strong> <strong>Campaign B (Existing Customers) is the clear winner</strong>, outperforming in 8 out of 9 KPIs. This campaign demonstrates:</p>
+<ul>
+<li>Best customer retention</li>
+<li>Highest average order value</li>
+<li>Best customer lifetime value</li>
+<li>Lowest relative price compared to benefits</li>
+<li>Lowest failure demand</li>
+<li>Highest earned growth rate</li>
+<li>Lowest churn rate</li>
+<li>Highest repeat purchase rate</li>
+</ul>
+<p class="mb-6">While Campaign C achieved the highest total revenue (due to a larger customer base of 150 vs 100), Campaign B showed the best performance across most metrics when normalised for customer base size. This suggests that focusing on existing customers delivers the best overall results in terms of efficiency and customer value metrics.</p>
+<h3 id="conclusion-take-care-of-your-customers"><strong>Conclusion: Take Care of Your Customers</strong></h3>
+<p class="mb-6">It's clear that while new customer acquisition is important, focusing on it alone can be detrimental to revenue and other key metrics.</p><p class="mt-6 mb-6">In this exercise, we've shown that focusing on new customer acquisition alone doesn't really pay off in terms of any of the commonly used business metrics. In fact, our scenario shows that it's the opposite: focusing on existing customers brings more business.</p>
+<p class="mb-6">Our research also shows that campaigns targeting only existing customers are more effective than a mix of both existing and new customers. This may be hard to believe, and it would probably come with a lot of ifs and buts if we were talking about real life campaigns. In the grand scheme of things, acquiring new customers has been and will continue to be a must in any business strategy, so we should not take this study as an invitation to abandon any new customer strategy, because that would be next to suicidal.</p><p class="mt-6 mb-6">There are many studies, much larger and more academic than this one, that have concluded that retaining customers is far more cost effective and about 70% cheaper than acquiring new ones. For example, a widely cited article in the Harvard Business Review entitled The Economics of E-Loyalty by Frederick F. Reichheld and Phil Schefter, Harvard Business Review, July 2000.</p>
+<p class="mb-6">The final takeaway from all this is probably that you shouldn't just focus on acquiring new customers, because you're certainly leaving opportunities on the table. A strong strategy for retaining customers and turning them into brand advocates will often do wonders for sustainable growth and profitability.</p>
+<p class="text-sm text-gray-600 dark:text-gray-400 mt-8 pt-6 border-t border-gray-300 dark:border-gray-700"><em>Net Promoter®, NPS®, NPS Prism®, and the NPS-related emoticons are registered trademarks of Bain & Company, Inc., NICE Systems, Inc., and Fred Reichheld. Net Promoter Score℠ and Net Promoter System℠ are service marks of Bain & Company, Inc., NICE Systems, Inc., and Fred Reichheld.</em></p>c:T443,
+          .prose a:not(.download-link) {
+            color: #c49102;
+            text-decoration: underline;
+            text-decoration-color: rgba(196, 145, 2, 0.5);
+            transition: color 0.2s, text-decoration-color 0.2s;
+          }
+          .prose a:not(.download-link):hover {
+            color: #a37802;
+            text-decoration-color: #a37802;
+          }
+          .prose a.download-link::before {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4'/%3E%3Cpolyline points='7 10 12 15 17 10'/%3E%3Cline x1='12' y1='15' x2='12' y2='3'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            margin-right: 0.5rem;
+          }
+        d:Td8a,prose prose-lg dark:prose-invert max-w-none mb-12 prose-headings:text-dark prose-headings:dark:text-white prose-headings:scroll-mt-20 prose-headings:mt-12 prose-headings:mb-6 prose-h1:font-bold prose-h2:font-bold prose-h4:font-bold prose-h5:font-bold prose-h6:font-bold prose-p:text-gray-700 prose-p:dark:text-gray-300 prose-p:leading-loose prose-p:text-xl prose-p:max-w-none [&_h3]:text-3xl [&_h3]:sm:text-4xl [&_h3]:font-normal [&_h3]:leading-tight [&_h3]:mb-8 prose-figcaption:text-sm prose-figcaption:text-gray-600 prose-figcaption:dark:text-gray-400 prose-figcaption:italic prose-figcaption:text-left prose-figcaption:mt-2 prose-figcaption:mb-6 [&_p.mb-6]:mb-6 [&_p.mb-2]:mb-2 [&_p.mt-6]:mt-6 prose-strong:text-dark prose-strong:dark:text-white prose-strong:font-semibold [&_li_strong]:font-bold [&_li_strong]:text-dark [&_li_strong]:dark:text-white prose-img:rounded-lg prose-img:shadow-lg prose-img:my-4 prose-img:max-w-full prose-img:mx-auto prose-img:block prose-figure:flex prose-figure:flex-col prose-figure:items-center prose-figure:my-8 [&_img[src*='TERESA-MONROE']]:hidden prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:bg-primary/5 prose-blockquote:dark:bg-primary/10 prose-blockquote:pl-6 prose-blockquote:py-4 prose-blockquote:my-8 [&_.methodology-note]:my-8 [&_.methodology-note]:p-6 [&_.methodology-note]:border-l-4 [&_.methodology-note]:border-primary [&_.methodology-note]:bg-primary/5 [&_.methodology-note]:dark:bg-primary/10 [&_.methodology-note]:rounded-r-lg [&_.methodology-note_h4]:text-lg [&_.methodology-note_h4]:font-bold [&_.methodology-note_h4]:text-primary [&_.methodology-note_h4]:mb-3 [&_.methodology-note_h4]:uppercase [&_.methodology-note_h4]:tracking-wide [&_.methodology-note_div]:text-gray-700 [&_.methodology-note_div]:dark:text-gray-300 [&_.methodology-note_div]:space-y-2 prose-code:text-primary prose-code:bg-primary/10 prose-code:dark:bg-primary/20 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-pre:bg-dark prose-pre:text-white prose-pre:rounded-lg prose-pre:p-4 prose-pre:my-8 prose-ul:list-disc prose-ul:pl-6 prose-ul:my-8 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:my-8 prose-ol:list-decimal prose-ol:pl-6 prose-ol:my-8 [&_ol]:list-decimal [&_ol]:pl-6 [&_ol]:my-8 prose-li:my-3 prose-li:leading-relaxed [&_ul_ul]:list-disc [&_ul_ul]:pl-6 [&_ul_ul]:ml-4 [&_ol_li]:list-item prose-table:w-full prose-table:my-8 [&_table.summary-table]:w-full [&_table.summary-table]:border-collapse [&_table.summary-table]:bg-white [&_table.summary-table]:dark:bg-dark-light [&_table.summary-table]:shadow-lg [&_table.summary-table]:rounded-lg [&_table.summary-table]:overflow-hidden [&_table.summary-table]:my-8 [&_table.summary-table]:border [&_table.summary-table]:border-gray-200 [&_table.summary-table]:dark:border-gray-700 [&_a.download-link]:inline-flex [&_a.download-link]:items-center [&_a.download-link]:gap-2.5 [&_a.download-link]:px-5 [&_a.download-link]:py-3 [&_a.download-link]:mt-4 [&_a.download-link]:mb-6 [&_a.download-link]:bg-primary [&_a.download-link]:text-white [&_a.download-link]:rounded-lg [&_a.download-link]:font-semibold [&_a.download-link]:hover:bg-primary-dark [&_a.download-link]:transition-all [&_a.download-link]:no-underline [&_a.download-link]:shadow-md [&_a.download-link]:hover:shadow-lg [&_a.download-link]:before:content-['⬇'] [&_a.download-link]:before:text-lg [&_a.download-link]:before:leading-none [&_a.download-link]:before:font-normale:T9f69,<p class="mb-6">Have you ever seen an offer or discount 'for new customers only'? It's a great marketing and sales tactic to attract new customers, but what about existing ones? How do you feel when your bank or supermarket offers discounts and promotions to new customers but excludes you? Do you take this as an invitation to go shopping elsewhere? These campaigns are undoubtedly designed to meet sales requirements and internal acquisition targets. No mystery there.</p><p class="mt-6 mb-6">But is it factfully more profitable for the company at the end of the year to acquire 100 new customers or, on the contrary, to retain 100 existing ones? We would all agree that the solution is to have a strategy combining retention and acquisition. But let's explore these different scenarios and assess their true profitability.</p>
+<h3 id="is-it-more-profitable-to-get-100-new-customers-or-retain-100-existing-ones"><strong>Is it more profitable to get 100 new customers or retain 100 existing ones?</strong></h3>
+<p class="mb-6">Imagine a company, RetailCo running three different campaign strategies:</p>
+<h4 id="ucampaign-au-50-discount-for-new-customers-only"><u>Campaign A</u>: 50% discount for new customers only.</h4>
+<p class="mb-6">Let's consider a customer spends £100 per order on average, so with this discount, each new customer generates £50 in revenue on their first purchase. If RetailCo acquires 100 new customers, the initial revenue would be £50 x 100 = £5,000.</p><p class="mt-6 mb-6">After that first purchase, some of those 100 buyers will take the offer to make a one-off purchase and won't stay loyal. Let's assume a maximum of 25% of those new customers (25) return to make at least another purchase at full price (£100) over the year. This would give:</p>
+<ul>
+<li>Initial revenue: 100 customers × £50 = £5,000</li>
+<li>Additional purchases from retained customers (25 customers making 1 further purchase at £100): 25 customers × £100 = £2,500</li>
+<li>Total revenue for Campaign A: £5,000 + £2,500 = <u>£7,500</u></li>
+</ul>
+<p class="mb-6">So in total, Campaign A brings in at least £7,500 (£5,000 from the initial purchases and £2,500 from returning buyers).</p><p class="mt-6 mb-6">We could assume that some second-time buyers would keep buying for a third time and maybe more. But let's keep things simple in this exercise.</p>
+<h4 id="ucampaign-bu-50-discount-for-existing-customers-only"><u>Campaign B</u>: 50% discount for existing customers only.</h4>
+<p class="mb-6">In this scenario, RetailCo reaches 100 existing customers who, under the same conditions, take advantage of the 50% discount and initially spend £50 each. Since these customers are potentially already loyal, their retention rate should be higher than in Campaign A. Let's assume a slight increase for returning customers in this case, and take up to 30 second-time buyers, who will make additional purchases at full price over the year, rather than 25 from Campaign A.</p>
+<ul>
+<li>Initial revenue from existing customers: £50 x 100 customers = £5,000</li>
+<li>Additional purchases from repeating customers (30 customers making 1 further purchase at £100): 30 customers × £100 = £3,000</li>
+<li>Total revenue for Case B: £5,000 + £3,000 = <u>£8,000</u></li>
+</ul>
+<p class="mb-6">Again, we are ignoring third-time buyers and beyond for simplicity. Then, Campaign B totals £8,000 in revenue, compared to the £7,500 from the new customer-only campaign (Campaign A).</p>
+<p class="mb-6"><strong>So with a small sample of 100 customers</strong>, with a very simplified scenario where we are only looking at a maximum of 2 purchases a year, and assuming only a 5% difference between the returning customers between campaigns A and B, <strong>we have already increased £500 of gross revenue</strong>. <strong>Almost 7% increase</strong>. Not to mention the potential word-of-mouth and positive recommendations from happy customers in this campaign, instead of a likely loss of loyal customers who would surely feel angrily excluded in the Campaign A scenario.</p>
+<h4 id="ucampaign-cu-50-discount-for-everyone"><u>Campaign C</u>: 50% discount for everyone.</h4>
+<p class="mb-6">RetailCo is now launching a mixed campaign both for new and existing customers. Since we are now targeting a larger group of prospects, let's also assume a slightly higher number of customers who buy in this campaign, say 150. And to keep it realistic, let's say only 30% of them are new customers and 70% are pre-existing customers. So out of 150 total customers, 45 are new, and 105 are existing.</p><p class="mt-6 mb-6">Let's make the same assumptions as we did for previous campaigns, so we can compare them.</p>
+<p class="mb-6">As with the previous cases, we assume 75% of new customers make only an initial purchase, and the other 25% make at least one more purchase.</p><p class="mt-6 mb-6">For existing customers, we assume 30% retention as we did before, so we count on our customers to make at least one additional purchase at full price.</p>
+<ul>
+<li>
+<p class="mb-6">New customers:</p>
+<ul>
+<li>First purchase revenue (same conditions as Campaign A but for 45 new customers): 45 customers × £50 = £2,250</li>
+<li>Additional purchases from retained new customers (25% out of 45 customers making a second purchase at £100): 11.25 customers × £100 = £1,125</li>
+<li>Total from new customers = £2,250 + £1,125 = <u>£3,375</u></li>
+</ul>
+</li>
+<li>
+<p class="mb-6">Existing customers:</p>
+<ul>
+<li>First purchase revenue (same conditions as Campaign B but for 105 existing customers): 105 customers × £50 = £5,250</li>
+<li>Additional purchases from retained existing customers (30% out of 105 customers making a second purchase at £100): 31.5 customers × £100 = £3,150</li>
+<li>Total from existing customers: £5,250 + £3,150 = <u>£8,400</u></li>
+</ul>
+</li>
+<li>
+<p class="mb-6">Total revenue from Campaign C: £3,375 + £8,400 = <u>£11,775</u></p>
+</li>
+</ul>
+<p class="mb-6">While Campaign C clearly generates the highest revenue (£11,775), it's important to note that this is partially due to the larger sample size of 150 customers compared to Campaigns A and B (100 customers each). This broader reach naturally inflates the total revenue. That said, even with conservative assumptions, Campaign C shows the value of balancing acquisition and retention efforts. By targeting both new and existing customers, it captures revenue from a diverse group, maximising profitability.</p>
+<p class="mb-6">From this analysis, it's evident that campaigns <strong>combining acquisition and retention</strong> efforts (like Campaign C) <strong>offer the highest potential revenue</strong>. While the larger sample size contributes to this outcome, the strategy also demonstrates strong revenue potential <strong>even with modest retention rates</strong>. Adjust these assumptions to reflect your business context, and you'll likely find that a mixed strategy is often the most profitable.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Revenue-Comparison-data.png" alt="Campaign Revenue Comparison in three columns"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Revenue-Graph.png" alt="Revenue Graph"></p>
+<h3 id="retention-rate"><strong>Retention Rate</strong></h3>
+<p class="mb-6">Before we dive into more complex metrics, we should quickly look at the Retention Rate, which measures the percentage of customers who make repeat purchases, indicating customer satisfaction and loyalty. A higher retention rate suggests that customers find value in the product or service and are likely to continue their relationship with the brand.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Retention-Rate-table.png" alt="Retention Rate Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Retention-Rate-graph.png" alt="Retention Rate Comparison Graph"></p>
+<p class="mb-6">As we would all expect, <strong>existing customers are more loyal</strong> with Campaign B achieving the highest retention rate (30%). The mixed approach (Campaign C) maintains a healthy retention rate of 28.5%, suggesting that including existing customers in promotions helps to maintain loyalty. The modest retention assumption of 25% for new-customers-only Campaign A also indicates that some new customers can be converted into repeat buyers.</p>
+<h3 id="average-order-value-aov"><strong>Average Order Value (AOV)</strong></h3>
+<p class="mb-6">Another quick stop can be made on this commonly used KPI to better understand and anticipate the customer expenditure for each of those scenarios. Average Order Value tracks the average amount spent by customers per transaction. By understanding AOV, businesses can assess the effectiveness of their pricing strategies, discount campaigns, and overall revenue potential.</p><div class="h-8"></div><p class="mb-6"><img src="/images/AOV-Comparison-table.png" alt="AOV Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/AOV-Comparison-graph.png" alt="AOV Comparison graph"></p><p class="mt-6 mb-6">Although the difference in AOV between the campaigns is relatively small due to the small sample of customers considered, we can see that Campaign B (existing customers) leads with the highest AOV (£65), demonstrating that existing customers tend to generate more value per order. The mixed Campaign C achieves a balanced AOV (£63.50), showing that including both customer segments can maintain high order values. The new customer scenario (Campaign A) has the lowest AOV (£62.50), again demonstrating the limited benefits of focusing on new customers only.</p>
+<p class="mb-6">All campaigns show significant improvement from the initial £50 discounted order to the £100 full-price repeat purchase.</p>
+<h3 id="customer-lifetime-value-clv"><strong>Customer Lifetime Value (CLV)</strong></h3>
+<p class="mb-6">As we saw at the beginning of this article, Campaign C is likely to generate the highest total revenue (£11,775). Now it's worth asking: what about the value of each campaign over the year?</p><p class="mt-6 mb-6">This is where Customer Lifetime Value (CLV) comes in. CLV measures customers' total financial contribution throughout their relationship with a company. Understanding this metric helps to assess which campaigns are truly delivering long-term value.</p>
+<p class="mb-6">The initial discount investment often reduces margins when the focus is on new customer acquisition. Many new customers acquired through promotions may not stay for the long term, lowering the overall CLV. However, existing customers may already trust the brand and spend consistently. If neglected, their lifetime value will plummet, making any acquisition gains look minimal by comparison.</p><p class="mt-6 mb-6">So for our three campaign scenarios, the CLV would be as follows</p>
+<p class="mb-6"><u>Campaign A (new customers)</u>:
+Campaign A focuses on attracting new customers with promotions. Our conservative assumption is that 25 out of 100 customers will make additional purchases. This limits the growth in CLV throughout the year, resulting in the lowest cumulative value at the end of the year.</p>
+<p class="mb-6"><u>Campaign B (existing customers)</u>:
+Campaign B is designed to maximise the loyalty of existing customers, and we used a higher retention rate of 30% because we are counting on customers within this sample who are already loyal and will use the promotion to make purchases they would have made anyway. These loyal customers drive steady revenue growth, resulting in the highest CLV at the end of the year.</p>
+<p class="mb-6"><u>Campaign C (Mixed campaign)</u>:
+Campaign C takes a balanced approach, splitting resources between new and existing customers. New customer retention remains at 25% while existing customer retention is 30%. Although Campaign C generates more total revenue than Campaign A, its CLV does not exceed that of Campaign B due to the higher retention rates and recurring spending patterns of existing customers.</p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-table-A.png" alt="CLV Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-table-B.png" alt="CLV Comparison table"></p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-table-C.png" alt=""></p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Summary-Table-1.png" alt="CLV Summary Table"></p><p class="mt-6 mb-6">The graph below visualizes the final CLV values for each campaign. By comparing the cumulative value generated by customers in each campaign, it highlights the distinct strengths and weaknesses of these strategies.</p><div class="h-8"></div><p class="mb-6"><img src="/images/CLV-Comparison-graph.png" alt="CLV Comparison graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">To produce this graph, we've built on our existing data while making some practical assumptions to keep the analysis simple:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>We've limited our analysis to a maximum of two purchases per customer and assumed that all second purchases are made at full price (£100).</li></li><li>We've also used our retention rates as a proxy for perceived value. While this gives us a good indication of customer satisfaction, real-world perceived value can be influenced by many other factors.</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Based on this analysis, <strong>Campaign B (Existing Customers</strong> Only) proves to be <strong>the most effective</strong> in terms of Customer Lifetime Value, achieving the highest CLV of £80 per customer.</p>
+<p class="mb-6">This superiority is driven by the <strong>higher retention rat</strong>e of 30% for existing customers, compared to the 25% retention rate for new customers, combined with their willingness to make repeat purchases at full price.</p>
+<p class="mb-6">While <strong>Campaign C (Mixed) generates higher total revenue</strong> due to its larger customer base, and <strong>Campaign A (New Customers) helps to expand the customer base</strong>, Campaign B's focus on existing customers maximises the value generated per customer.</p><p class="mt-6 mb-6">This is consistent with the well-established principle that retaining and nurturing existing customer relationships is often more cost-effective than acquiring new ones. The results suggest that prioritising customer retention and loyalty through targeted promotions to existing customers could be the most profitable strategy for maximising CLV.</p>
+<h3 id="relative-perceived-value-map"><strong>Relative Perceived Value Map</strong></h3>
+<p class="mb-6">The Relative Perceived Value Map shows how customers perceive the value they receive from your product or service compared to the competition. If new customers consistently receive better offers, existing customers may feel undervalued and their perceived value of your brand will decrease. If they feel marginalised, they are more likely to switch to competitors who offer them more attention or better rewards, reducing overall brand loyalty and engagement.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Calculations-A.png" alt="Relative Perceived Value Map Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Calculations-B.png" alt="Relative Perceived Value Map Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Calculations-C.png" alt="Relative Perceived Value Map Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Relative-Perceived-Value-Map-Graph.png" alt="Relative Perceived Value Map Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">To produce this graph, we've built on our existing data while making some practical assumptions to keep the analysis simple:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>We've limited our analysis to a maximum of two purchases per customer and assumed that all second purchases are made at full price (£100).</li></li><li>We've also used our retention rates as a proxy for perceived value. While this gives us a good indication of customer satisfaction, real-world perceived value can be influenced by many other factors.</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Based on the Relative Perceived Value Map, we can draw several interesting conclusions:</p>
+<p class="mb-6"><u>Campaign A (New Customers)</u> presents a <strong>less than optimal</strong> position:</p>
+<ul>
+<li>Higher relative price (60%) but lowest benefit (25% retention).</li>
+<li>This suggests that new customers pay more but receive less perceived value.</li>
+<li>This could indicate a <strong>risk of losing these customers</strong> to competitors after their first purchase.</li>
+</ul>
+<p class="mb-6"><u>Campaign B (Existing Customers)</u> shows the <strong>most favourable</strong> position on the map because:</p>
+<ul>
+<li>It offers the lowest relative price (57.69%) while delivering the highest value (30% retention).</li>
+<li>This combination suggests it offers the best value proposition to customers.</li>
+<li>It rewards loyalty which <strong>strengthens long-term customer relationships</strong>.</li>
+</ul>
+<p class="mb-6"><u>Campaign C (Mixed)</u> shows an interesting middle ground:</p>
+<ul>
+<li>Highest relative price (61.08%) with moderate benefits (28.5% retention).</li>
+<li>The balanced retention rate makes sense as it mixes both types of customers.</li>
+<li>However, the higher average price may not justify the moderate benefits.</li>
+</ul>
+<p class="mb-6">Key Strategic Implications:</p>
+<ol>
+<li>Campaign B's approach of rewarding existing customers appears to be the most effective in balancing price and value.</li>
+<li>The higher churn rate in Campaign A suggests that the new customer discount may not be enough to build lasting relationships.</li>
+<li>Campaign C's mixed approach reaches more customers but doesn't seem to optimise either price or perceived value.</li>
+</ol>
+<p class="mb-6">These findings suggest that more resources should be focused on retaining and rewarding existing customers.</p>
+<h3 id="failure-demand"><strong>Failure Demand</strong></h3>
+<p class="mb-6">Another business KPI we can look at is Failure Demand, which refers to the additional work created when businesses fail to meet customer expectations. It represents demand driven by inefficiencies, such as the need for clarification, error correction or reworking of unresolved issues.</p><p class="mt-6 mb-6">In this context of customer acquisition and retention campaigns, offering discounts exclusively to new customers can frustrate existing customers, leading to complaints and negative word-of-mouth. Frustratingly, this can lead to higher operational costs and damage the overall customer experience.</p>
+<p class="mb-6">Back to the ground, let's estimate Failure Demand percentages for the three campaigns based on typical patterns:</p>
+<p class="mb-6"><u>Campaign A (New Customers Only)</u>: New customers often require significant support due to onboarding challenges or lack of familiarity with the product or service. Let's assume a minimum failure rate of 20% for Campaign A.</p>
+<p class="mb-6"><u>Campaign B (Existing Customers Only)</u>: Existing customers already familiar with the product, generally require less support. However, a failure demand can still occur if the campaign terms are unclear or unexpected issues arise. Let's assume a conservative failure rate of 5%.</p>
+<p class="mb-6"><u>Campaign C (Mixed Campaign)</u>: Given the mixture of the previous cases, we should estimate a 12.5% failure demand. This scenario reduces the Failure Demand but doesn't eliminate it.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Failure-Demand-graph.png" alt="Failure Demand graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">These failure demand estimates are based on typical patterns observed in retail discount campaigns:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Calculations consider the primary drivers of support requests: product familiarity, campaign clarity, and customer experience</li></li><li>Percentages represent the proportion of transactions that generate additional support work</li></li><li>The mixed campaign (C) uses a weighted average based on the customer mix (30% new, 70% existing)</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">In summary, Campaign A <strong>(new customers) shows the highest Failure Demand</strong> (20%), as new customers require more support and clarification during onboarding.</p><p class="mt-6 mb-6">Campaign B has the lowest Failure Demand (5%), reflecting existing customers' familiarity with products and processes</p>
+<p class="mb-6">Campaign C maintains a moderate level (12.5%), balancing the higher support needs of new customers with the efficiency of serving existing customers.</p><p class="mt-6 mb-6">The variation in Failure Demand has a direct impact on the operational costs and resource requirements of each campaign.</p>
+<h3 id="earned-growth-rate-egr"><strong>Earned Growth Rate (EGR)</strong></h3>
+<p class="mb-6">Also relevant to this exercise is the Earned Growth Rate (EGR), which measures the percentage of revenue growth generated by returning customers and referrals, and shows how much your existing customers contribute to growth.</p><p class="mt-6 mb-6">Businesses focusing exclusively on new customer offers (such as Campaign A) may experience lower EGR as loyal customers feel undervalued. On the other hand, campaigns that value existing customers (Campaign B) are more likely to generate referrals, creating a cycle of advocacy-driven growth. Mixed campaigns (Campaign C) fall somewhere between acquiring new customers and retaining existing ones, as they affect both loyalty and advocacy.</p>
+<p class="mb-6">In our scenarios, let's assume:</p>
+<p class="mb-6"><u>Campaign A</u>: 5% EGR, as new customers are less likely to advocate immediately.</p>
+<p class="mb-6"><u>Campaign B</u>: Let's take 20% EGR, driven by loyal customers and a higher likelihood to recommend.</p>
+<p class="mb-6"><u>Campaign C</u>: We can assume a balanced 15% EGR, benefiting from a mix of customer types.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Earned-Growth-Rate-EGR-Graph.png" alt="Earned Growth Rate EGR Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">The EGR calculations are based on:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Revenue growth from returning customers and their referrals</li></li><li>Customer advocacy patterns typical in retail discount campaigns</li></li><li>Correlation with retention rates from previous analyses</li></li><li>Impact of campaign type on customer loyalty and word-of-mouth</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Campaign B <strong>(existing customers) has the highest EGR</strong> (20%), reflecting its strong retention rate and focus on existing customer relationships.</p><p class="mt-6 mb-6">Campaign A's low EGR (5%) reflects the challenges of building advocacy among new customers.</p>
+<p class="mb-6">Campaign C's balanced approach (15%) shows how mixed strategies can benefit both customer acquisition and retention.</p>
+<h3 id="net-easy-score-nes"><strong>Net Easy Score (NES)</strong></h3>
+<p class="mb-6">Net Easy Score (NES) measures how effortless it is for customers to interact with your organisation across all touch points. This metric focuses on the operational smoothness of customer interactions - from purchases and account management to support requests and problem resolution. By tracking NES, businesses can identify friction points in the customer journey and optimise processes to reduce customer effort.</p><p class="mt-6 mb-6">Although NES is a critical metric in real-world business operations, we have excluded it from our quantitative analysis of the three campaigns. Including it would require significant additional data on customer experiences and interaction patterns that would be purely speculative in our scenario-based study. Making such assumptions could reduce the realism of our analysis.</p>
+<p class="mb-6">Nevertheless, it's important to note that campaigns like the ones we are analysing would, in practice, be integral parts of different customer journeys. The ease of interaction would vary between new and existing customers, and NES would be a key factor in determining the overall success of these promotional strategies in the real world.</p>
+<h3 id="customer-churn-rate"><strong>Customer Churn Rate</strong></h3>
+<p class="mb-6">Customer churn rate is the percentage of customers who stop doing business with you. Discounts for new customers are often a short-term fix, but the real danger lies in neglecting those who are already loyal. High churn rates can be exacerbated by poor retention strategies, causing long-term damage to your revenue. Each churned customer represents the loss of their future value, often far outweighing the benefit of a one-off new customer discount.</p><p class="mt-6 mb-6">Let's calculate the different churn rates for our three campaigns then:</p>
+<ol>
+<li>
+<p class="mb-6"><u>Campaign A: New Customers Only</u>: We have set a minimum retention for this campaign as these customers are primarily discount driven. Let's assume a high churn rate, at least <strong>75%</strong> within a year.</p>
+</li>
+<li>
+<p class="mb-6"><u>Campaign B: Existing Customers Only</u>: We have set a loyalty level of 30% for this campaign, so we have a churn rate of <strong>70%</strong> for existing customers who take advantage of seasonal campaigns.</p>
+</li>
+<li>
+<p class="mb-6"><u>Campaign C: Mixed Campaign</u>: Based on the previous calculations where we increased the scope to 150 for the mixed campaign, we expect 75% of the 45 new customers to churn and 70% of the 105 to churn. This gives a total churn rate of <strong>71.5%</strong>.</p>
+</li>
+</ol>
+<p class="mb-6"><img src="/images/Customer-Churn-Rate-Calculations.png" alt="Customer Churn Rate Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Customer-Churn-Rate-Graph.png" alt="Customer Churn Rate Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">The Churn Rate calculations are based on:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Initial customer base of 100 customers for single-target campaigns (A &#x26; B)</li></li><li>Expanded customer base of 150 for the mixed campaign (C)</li></li><li>Tracking of customer retention over a one-year period</li></li><li>Differentiated retention rates between new and existing customers</li></li><li>Historical purchase patterns and customer behavior analysis</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Campaign A <strong>(new customers) has the highest churn rate</strong> (75%), highlighting the challenge of retaining discount-driven new customers. In real-life scenarios, this churn rate would probably be higher in most cases. Many factors have a significant impact on customer churn in a new customer-only campaign, such as product category, acquisition channels, seasonality, etc.</p>
+<p class="mb-6"><strong>Existing customer campaign (B) has the lowest churn rate</strong> (70%), reflecting the stronger loyalty of existing customers even in discount scenarios.</p><p class="mt-6 mb-6">The 5% difference in churn rates between Campaigns A and B represents a minimal difference that would normally be higher in real life. It highlights the value of nurturing existing customer relationships.</p>
+<p class="mb-6">Campaign C (Mixed) achieves a balanced churn rate (71.5%), successfully managing the mix of new and existing customers.</p>
+<h3 id="repeat-purchase-rate"><strong>Repeat Purchase Rate</strong></h3>
+<p class="mb-6">This metric measures how often customers return to make a purchase. Existing customers without loyalty incentives are somewhat less likely to return. Instead of encouraging repeat business, companies may be unintentionally driving away loyal customers with these 'new customer' promotions. If existing customers aren't encouraged to make additional purchases, their overall lifetime value and profitability are reduced.</p><div class="h-8"></div><p class="mb-6"><img src="/images/Repeat-Purchase-Rate-Calculations.png" alt="Repeat Purchase Rate Calculations"></p><div class="h-8"></div><p class="mb-6"><img src="/images/Repeat-Purchase-Rate-Graph.png" alt="Repeat Purchase Rate Graph"></p>
+<div class="methodology-note my-8 p-6 border-l-4 border-primary bg-primary/5 dark:bg-primary/10 rounded-r-lg">
+        <h4 class="text-lg font-bold text-primary mb-3 uppercase tracking-wide">Note on Methodology</h4>
+        <div class="text-gray-700 dark:text-gray-300 space-y-2 prose prose-sm max-w-none"><p class="mb-6">The Repeat Purchase Rate calculations are based on:</p>
+<ul></p><ul class="list-disc list-inside space-y-2 mt-3"><li>Direct tracking of customer repeat purchases over the campaign period</li></li><li>Distinction between new and existing customer behavior patterns</li></li><li>Analysis of purchase frequency among different customer segments</li></li><li>Consideration of discount impact on purchase decisions</li></li><li>Evaluation of customer loyalty indicators across campaigns</li>
+</ul></li></ul></div>
+      </div>
+<p class="mb-6">Campaign A, which focuses solely on <strong>new customers, has the lowest RPR</strong> at 25%, even taking into account that we have assumed this retention rate to be the maximum. The fact that new customers produce the lowest RPR reflects the challenge of converting discount-driven first-time buyers into repeat customers.</p>
+<p class="mb-6">Campaign B, targeting <strong>existing customers, achieves the highest RPR</strong> at 30%, confirming that loyal customers are more likely to make repeat purchases, even in discount scenarios. As with Campaign A, we assume that the retention rate we have set is a maximum, so in reality, the difference in RPR between Campaigns A and B would be higher.</p><p class="mt-6 mb-6">Campaign C falls in the middle with an RPR of 28.5%, benefiting from the mixed approach that combines the higher repeat purchase propensity of existing customers (30% of 105 customers) with the lower rate of new acquisition (25% of 45 customers).</p>
+<p class="mb-6">These findings confirm that while new customer acquisition is important, maintaining and nurturing existing customer relationships leads to better repeat purchase behaviour and potentially higher long-term value.</p>
+<h3 id="other-relevant-kpis"><strong>Other Relevant KPI's</strong></h3>
+<p class="mb-6"><strong>Customer Acquisition Cost (CAC)</strong></p><p class="mt-6 mb-6">Customer Acquisition Cost (CAC) is a fundamental business metric that measures the total cost of acquiring a new customer. It includes all marketing and sales expenses, including advertising costs, marketing team salaries, tools and software, and promotional costs such as discounts.</p>
+<p class="mb-6">While CAC would be highly relevant to the analysis of our three campaign scenarios, calculating it would require making numerous assumptions about marketing budgets, operational costs, and campaign costs, which would be purely speculative given our limited data set. With our sample size of 100-150 customers, any CAC calculations would be based on arbitrary cost assumptions that may not reflect real-world conditions or be scalable to larger customer bases.</p><p class="mt-6 mb-6">However, in actual business implementations of these discount strategies, CAC would be a crucial metric for evaluating campaign effectiveness and determining the true cost of acquiring customers through different promotional approaches.</p>
+<p class="mb-6"><strong>Return on Investment (ROI)</strong></p><p class="mt-6 mb-6">Return on Investment (ROI) is a critical and widely used performance metric that measures the profitability of an investment relative to its cost. For discount campaigns such as those in our study, ROI would typically consider all campaign costs (marketing, operations, discounts) against the revenue generated from both initial and repeat purchases.</p>
+<p class="mb-6">However, calculating ROI for our scenarios would require making significant assumptions about investment costs, which we cannot reliably estimate with our limited data set. While we have clear revenue figures from customer purchases, the investment side of the equation would include speculative costs for campaign execution, marketing and operations. Such assumptions could lead to misleading ROI calculations that don't accurately reflect real-world campaign performance.</p><p class="mt-6 mb-6">Nevertheless, in actual business implementations, ROI would be an essential metric for evaluating the financial success of these different discount strategies and determining which approach delivers the best returns.</p>
+<p class="mb-6"><strong>Net Promoter Score℠ (NPS®)</strong></p><p class="mt-6 mb-6">NPS® measures the likelihood of customers recommending your brand to others. This KPI is closely linked to customer sentiment, which can suffer if loyal existing customers feel overlooked in favour of new ones. Offering better deals exclusively to new customers can make long-standing customers feel undervalued, potentially turning them into detractors or worse, leaving you for your competitors.</p>
+<p class="mb-6">As a result, your overall NPS may drop. Instead of encouraging positive, organic word-of-mouth, the brand risks negative feedback that damages its reputation and undermines acquisition efforts. Balancing incentives for both new and existing customers is essential to maintain high NPS scores and ensure customer advocacy.</p>
+<p class="mb-6"><em>Net Promoter®, NPS®, NPS Prism®, and the NPS-related emoticons are registered trademarks of Bain &#x26; Company, Inc., NICE Systems, Inc., and Fred Reichheld. Net Promoter Score℠ and Net Promoter System℠ are service marks of Bain &#x26; Company, Inc., NICE Systems, Inc., and Fred Reichheld.</em></p>
+<h3 id="summary"><strong>Summary</strong></h3>
+<p class="mb-6">Let's capitulate, all the metrics we have analysed and been able to quantify seem to point in the same direction: <strong>Campaign A (new customers) is not the top performer in any of the KPIs</strong> we took. Not one.</p><p class="mt-6 mb-6">So let's find out which campaign is the winner.</p>
+<table class="summary-table">
+  <thead>
+    <tr>
+      <th>KPI</th>
+      <th>Campaign A (New)</th>
+      <th>Campaign B (Existing)</th>
+      <th>Campaign C (Mixed)</th>
+      <th>Winner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total Revenue</td>
+      <td>£7,500</td>
+      <td>£8,000</td>
+      <td class="winner">£11,775</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Retention Rate</td>
+      <td>25%</td>
+      <td class="winner">30%</td>
+      <td>28.5%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Average Order Value</td>
+      <td>£62.50</td>
+      <td class="winner">£65.00</td>
+      <td>£63.50</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Customer Lifetime Value</td>
+      <td>£75.00</td>
+      <td class="winner">£80.00</td>
+      <td>£78.50</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Relative Price</td>
+      <td>60%</td>
+      <td class="winner">57.69%</td>
+      <td>61.08%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Failure Demand</td>
+      <td>20%</td>
+      <td class="winner">5%</td>
+      <td>12.5%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Earned Growth Rate</td>
+      <td>5%</td>
+      <td class="winner">20%</td>
+      <td>15%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Customer Churn Rate</td>
+      <td>75%</td>
+      <td class="winner">70%</td>
+      <td>71.5%</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Repeat Purchase Rate</td>
+      <td>25%</td>
+      <td class="winner">30%</td>
+      <td>28.5%</td>
+      <td>B</td>
+    </tr>
+    <tr class="total-row">
+      <td>Total Wins</td>
+      <td>0</td>
+      <td class="winner">8</td>
+      <td>1</td>
+      <td>B</td>
+    </tr>
+  </tbody>
+</table>
+<p class="mb-6"><strong>Final Verdict:</strong> <strong>Campaign B (Existing Customers) is the clear winner</strong>, outperforming in 8 out of 9 KPIs. This campaign demonstrates:</p>
+<ul>
+<li>Best customer retention</li>
+<li>Highest average order value</li>
+<li>Best customer lifetime value</li>
+<li>Lowest relative price compared to benefits</li>
+<li>Lowest failure demand</li>
+<li>Highest earned growth rate</li>
+<li>Lowest churn rate</li>
+<li>Highest repeat purchase rate</li>
+</ul>
+<p class="mb-6">While Campaign C achieved the highest total revenue (due to a larger customer base of 150 vs 100), Campaign B showed the best performance across most metrics when normalised for customer base size. This suggests that focusing on existing customers delivers the best overall results in terms of efficiency and customer value metrics.</p>
+<h3 id="conclusion-take-care-of-your-customers"><strong>Conclusion: Take Care of Your Customers</strong></h3>
+<p class="mb-6">It's clear that while new customer acquisition is important, focusing on it alone can be detrimental to revenue and other key metrics.</p><p class="mt-6 mb-6">In this exercise, we've shown that focusing on new customer acquisition alone doesn't really pay off in terms of any of the commonly used business metrics. In fact, our scenario shows that it's the opposite: focusing on existing customers brings more business.</p>
+<p class="mb-6">Our research also shows that campaigns targeting only existing customers are more effective than a mix of both existing and new customers. This may be hard to believe, and it would probably come with a lot of ifs and buts if we were talking about real life campaigns. In the grand scheme of things, acquiring new customers has been and will continue to be a must in any business strategy, so we should not take this study as an invitation to abandon any new customer strategy, because that would be next to suicidal.</p><p class="mt-6 mb-6">There are many studies, much larger and more academic than this one, that have concluded that retaining customers is far more cost effective and about 70% cheaper than acquiring new ones. For example, a widely cited article in the Harvard Business Review entitled The Economics of E-Loyalty by Frederick F. Reichheld and Phil Schefter, Harvard Business Review, July 2000.</p>
+<p class="mb-6">The final takeaway from all this is probably that you shouldn't just focus on acquiring new customers, because you're certainly leaving opportunities on the table. A strong strategy for retaining customers and turning them into brand advocates will often do wonders for sustainable growth and profitability.</p>
+<p class="text-sm text-gray-600 dark:text-gray-400 mt-8 pt-6 border-t border-gray-300 dark:border-gray-700"><em>Net Promoter®, NPS®, NPS Prism®, and the NPS-related emoticons are registered trademarks of Bain & Company, Inc., NICE Systems, Inc., and Fred Reichheld. Net Promoter Score℠ and Net Promoter System℠ are service marks of Bain & Company, Inc., NICE Systems, Inc., and Fred Reichheld.</em></p>2:["$","article",null,{"className":"pt-32 pb-20 min-h-screen","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$9"}}],["$","div",null,{"className":"container-custom max-w-4xl","children":[["$","$L7",null,{"href":"/blog","className":"inline-flex items-center text-primary hover:text-primary-dark mb-8 focus:outline-2 focus:outline-offset-2 focus:outline-primary focus:rounded","aria-label":"Back to blog","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-5 h-5 mr-2","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Blog"]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"heading-1 mb-6","children":"Are Discounts for New Customers Worth It?"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-sm text-gray-600 dark:text-gray-400 mb-6","children":[["$","time",null,{"dateTime":"2024-12-14 15:03:10","className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],"December 2024"]}],["$","span",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],25," min read"]}],["$","span",null,{"children":["By ","Jaime Valle"]}]]}],""]}],["$","div",null,{"className":"mb-8 flex flex-wrap gap-2","children":[[["$","span","Blog",{"className":"px-3 py-1 bg-primary/10 dark:bg-primary/20 text-primary rounded-full text-sm font-medium","children":"Blog"}]],[["$","span","customer retention",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer retention"]}],["$","span","customer acquisition",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer acquisition"]}],["$","span","discounts",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","discounts"]}],["$","span","marketing strategy",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","marketing strategy"]}],["$","span","customer lifetime value",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer lifetime value"]}],["$","span","CLV",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","CLV"]}],["$","span","customer loyalty",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer loyalty"]}],["$","span","pricing strategy",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","pricing strategy"]}],["$","span","customer experience",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer experience"]}],["$","span","CX",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","CX"]}],["$","span","business strategy",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","business strategy"]}],["$","span","revenue optimization",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","revenue optimization"]}],["$","span","customer value",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer value"]}],["$","span","retention vs acquisition",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","retention vs acquisition"]}],["$","span","customer campaigns",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer campaigns"]}],["$","span","loyalty programs",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","loyalty programs"]}],["$","span","customer profitability",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm","children":["#","customer profitability"]}]]]}],["$","$La",null,{"content":"$b"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}],["$","div",null,{"className":"$d","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","div",null,{"className":"border-t border-gray-200 dark:border-gray-700 pt-8 mb-12","children":["$","div",null,{"className":"flex items-center justify-between flex-wrap gap-4","children":[["$","h3",null,{"className":"text-lg font-semibold","children":"Share this article"}],["$","$Lf",null,{"title":"Are Discounts for New Customers Worth It?","url":"https://xperience-360.com/blog/are-discounts-for-new-customers-worth-it"}]]}]}],["$","div",null,{"className":"bg-primary/5 dark:bg-primary/10 rounded-lg p-6 mb-12","children":["$","div",null,{"className":"flex items-start gap-6","children":[["$","div",null,{"className":"flex-shrink-0","children":["$","$L10",null,{"src":"/images/author-pic.png","alt":"author","width":80,"height":80,"className":"rounded-lg object-cover w-[80px] h-[80px]"}]}],["$","div",null,{"className":"flex-1","children":[["$","h3",null,{"className":"text-lg font-bold mb-2 dark:text-white","children":"About the Author"}],["$","p",null,{"className":"body-text mb-3 text-sm dark:text-white","children":[["$","strong",null,{"children":"Jaime Valle"}]," is a senior Customer Experience (CX) consultant who helps organisations see their business through their customers' eyes, turning customer insight into measurable growth."]}],["$","a",null,{"href":"https://www.linkedin.com/in/jaimevuk/","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 text-primary dark:text-primary hover:text-primary-dark dark:hover:text-primary-dark font-semibold text-sm transition-colors duration-200 focus:outline-2 focus:outline-offset-2 focus:outline-primary focus:rounded","aria-label":"Connect with Jaime Valle on LinkedIn (opens in new tab)","children":[["$","svg",null,{"className":"w-4 h-4","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"Connect on LinkedIn"]}]]}]]}]}],["$","div",null,{"className":"border-t border-gray-200 dark:border-gray-700 pt-12","children":[["$","h2",null,{"className":"heading-2 mb-8","children":"Related Articles"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-6","children":[["$","article",null,{"className":"bg-white dark:bg-dark rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden","children":["",["$","div",null,{"className":"p-6","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400 mb-3","children":[["$","time",null,{"dateTime":"2025-02-23","className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],"February 23, 2025"]}],["$","span",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],5," min read"]}]]}],["$","h3",null,{"className":"heading-3 mb-3","children":["$","$L7",null,{"href":"/blog/unlocking-customer-experience-a-strategic-approach-to-business-success","className":"hover:text-primary transition-colors duration-200 focus:outline-2 focus:outline-offset-2 focus:outline-primary focus:rounded","children":"Unlocking Customer Experience: A Strategic Approach to Business Success"}]}],["$","p",null,{"className":"body-text mb-4 line-clamp-3","children":"Discover strategies to enhance customer experience, boost retention, and leverage insights for effective business growth."}],["$","$L7",null,{"href":"/blog/unlocking-customer-experience-a-strategic-approach-to-business-success","className":"link-primary font-semibold inline-flex items-center","aria-label":"Read more about Unlocking Customer Experience: A Strategic Approach to Business Success","children":"Read more →"}]]}]]}],["$","article",null,{"className":"bg-white dark:bg-dark rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden","children":["",["$","div",null,{"className":"p-6","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400 mb-3","children":[["$","time",null,{"dateTime":"2024-09-08","className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],"September 8, 2024"]}],["$","span",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],4," min read"]}]]}],["$","h3",null,{"className":"heading-3 mb-3","children":["$","$L7",null,{"href":"/blog/surveying-for-compliments-the-bias-in-customer-feedback","className":"hover:text-primary transition-colors duration-200 focus:outline-2 focus:outline-offset-2 focus:outline-primary focus:rounded","children":"Surveying for Compliments: The Bias in Customer Feedback"}]}],["$","p",null,{"className":"body-text mb-4 line-clamp-3","children":"Explore how customer feedback surveys can skew perceptions and impact business decisions. Insights from Xperience 360."}],["$","$L7",null,{"href":"/blog/surveying-for-compliments-the-bias-in-customer-feedback","className":"link-primary font-semibold inline-flex items-center","aria-label":"Read more about Surveying for Compliments: The Bias in Customer Feedback","children":"Read more →"}]]}]]}],["$","article",null,{"className":"bg-white dark:bg-dark rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden","children":["",["$","div",null,{"className":"p-6","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400 mb-3","children":[["$","time",null,{"dateTime":"2026-01-24","className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],"January 24, 2026"]}],["$","span",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],8," min read"]}]]}],["$","h3",null,{"className":"heading-3 mb-3","children":["$","$L7",null,{"href":"/blog/how-segmentor-app-was-born-a-two-year-journey-from-hotel-room-sketch-to-reality","className":"hover:text-primary transition-colors duration-200 focus:outline-2 focus:outline-offset-2 focus:outline-primary focus:rounded","children":"How Segmentor.app Was Born: A Two-Year Journey from Hotel Room Sketch to Reality"}]}],["$","p",null,{"className":"body-text mb-4 line-clamp-3","children":"Discover the story behind Segmentor.app, a two-year journey from a hotel room sketch to a powerful Apostles Model builder. Learn how customer segmentation, data privacy, and ethical web development principles shaped this innovative CX tool."}],["$","$L7",null,{"href":"/blog/how-segmentor-app-was-born-a-two-year-journey-from-hotel-room-sketch-to-reality","className":"link-primary font-semibold inline-flex items-center","aria-label":"Read more about How Segmentor.app Was Born: A Two-Year Journey from Hotel Room Sketch to Reality","children":"Read more →"}]]}]]}]]}]]}]]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Are Discounts for New Customers Worth It? | Xperience 360"}],["$","meta","3",{"name":"description","content":"Is it more profitable to acquire new customers or retain existing ones? Discover why new-customer-only discounts may hurt your bottom line and learn data-driven strategies for customer retention vs acquisition campaigns."}],["$","meta","4",{"name":"author","content":"Jaime Valle"}],["$","meta","5",{"name":"keywords","content":"customer experience,CX consulting,employee experience,EX consulting,customer satisfaction"}],["$","meta","6",{"name":"creator","content":"Xperience 360"}],["$","meta","7",{"name":"publisher","content":"Xperience 360"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","10",{"rel":"canonical","href":"https://xperience-360.com/blog/are-discounts-for-new-customers-worth-it/"}],["$","meta","11",{"property":"og:title","content":"Are Discounts for New Customers Worth It?"}],["$","meta","12",{"property":"og:description","content":"Is it more profitable to acquire new customers or retain existing ones? Discover why new-customer-only discounts may hurt your bottom line and learn data-driven strategies for customer retention vs acquisition campaigns."}],["$","meta","13",{"property":"og:url","content":"https://xperience-360.com/blog/are-discounts-for-new-customers-worth-it/"}],["$","meta","14",{"property":"og:site_name","content":"Xperience 360"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2024-12-14 15:03:10"}],["$","meta","17",{"property":"article:author","content":"Jaime Valle"}],["$","meta","18",{"property":"article:tag","content":"customer retention"}],["$","meta","19",{"property":"article:tag","content":"customer acquisition"}],["$","meta","20",{"property":"article:tag","content":"discounts"}],["$","meta","21",{"property":"article:tag","content":"marketing strategy"}],["$","meta","22",{"property":"article:tag","content":"customer lifetime value"}],["$","meta","23",{"property":"article:tag","content":"CLV"}],["$","meta","24",{"property":"article:tag","content":"customer loyalty"}],["$","meta","25",{"property":"article:tag","content":"pricing strategy"}],["$","meta","26",{"property":"article:tag","content":"customer experience"}],["$","meta","27",{"property":"article:tag","content":"CX"}],["$","meta","28",{"property":"article:tag","content":"business strategy"}],["$","meta","29",{"property":"article:tag","content":"revenue optimization"}],["$","meta","30",{"property":"article:tag","content":"customer value"}],["$","meta","31",{"property":"article:tag","content":"retention vs acquisition"}],["$","meta","32",{"property":"article:tag","content":"customer campaigns"}],["$","meta","33",{"property":"article:tag","content":"loyalty programs"}],["$","meta","34",{"property":"article:tag","content":"customer profitability"}],["$","meta","35",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","36",{"name":"twitter:title","content":"Are Discounts for New Customers Worth It?"}],["$","meta","37",{"name":"twitter:description","content":"Is it more profitable to acquire new customers or retain existing ones? Discover why new-customer-only discounts may hurt your bottom line and learn data-driven strategies for customer retention vs acquisition campaigns."}],["$","link","38",{"rel":"icon","href":"/favicon.png","media":"(prefers-color-scheme: light)"}],["$","link","39",{"rel":"icon","href":"/favicon-dark.png","media":"(prefers-color-scheme: dark)"}],["$","link","40",{"rel":"apple-touch-icon","href":"/favicon.png"}]]
+1:null
