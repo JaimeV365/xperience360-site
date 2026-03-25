@@ -2,7 +2,7 @@
   {
     "slug": "are-discounts-for-new-customers-worth-it",
     "title": "Are Discounts for New Customers Worth It?",
-    "excerpt": "",
+    "excerpt": "Is it more profitable to acquire new customers or retain existing ones? Discover why new-customer-only discounts may hurt your bottom line and learn data-driven strategies for customer retention vs acquisition campaigns.",
     "categories": [
       "Blog"
     ],
@@ -79,7 +79,7 @@
   {
     "slug": "customer-service-segmentation-a-smarter-way-to-allocate-resources",
     "title": "Customer Service Segmentation: A Smarter Way to Allocate Resources",
-    "excerpt": "We always talk about segmenting customers. It's a very good idea to do that and to better understand what different actions and strategies to take for different types of customers with different types of needs, motivations, behaviours, outcomes, etc.",
+    "excerpt": "Discover how customer service segmentation improves resource allocation in call centres. Learn to segment customers by knowledge level and urgency to optimize service efficiency, reduce handling times, and improve customer satisfaction.",
     "categories": [
       "Blog"
     ],
@@ -165,6 +165,32 @@
     ]
   },
   {
+    "slug": "exit-voice-and-loyalty-the-theory-that-explains-why-your-customers-dont-complain-they-just-leave",
+    "title": "Exit, Voice, and Loyalty: The Theory That Explains Why Your Customers Don’t Complain (They Just Leave)",
+    "excerpt": "Discover why many dissatisfied customers and employees never complain — they simply leave. In this article, we explore Albert O. Hirschman’s Exit, Voice, and Loyalty theory and how it combines with Segmentor to reveal hidden insights into customer behaviour, silent churn, and the true nature of voice in CX and EX programmes.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "Hirschman",
+      "Exit Voice and Loyalty",
+      "customer experience",
+      "CX",
+      "CX strategy",
+      "employee experience",
+      "EX",
+      "customer behaviour",
+      "customer loyalty",
+      "customer feedback",
+      "silent churn",
+      "customer segmentation",
+      "voice of the customer",
+      "customer insights",
+      "retention strategies",
+      "Segmentor"
+    ]
+  },
+  {
     "slug": "feedback-bias-the-complexities-of-honest-insights",
     "title": "Feedback Bias: Navigating the Complexities of Honest Insights",
     "excerpt": "Explore how feedback bias impacts innovation in exclusive services and personal relationships, hindering business growth.",
@@ -189,6 +215,41 @@
       "feedback accuracy",
       "honest feedback",
       "customer relationships"
+    ]
+  },
+  {
+    "slug": "how-segmentor-app-was-born-a-two-year-journey-from-hotel-room-sketch-to-reality",
+    "title": "How Segmentor.app Was Born: A Two-Year Journey from Hotel Room Sketch to Reality",
+    "excerpt": "Discover the story behind Segmentor.app, a two-year journey from a hotel room sketch to a powerful Apostles Model builder. Learn how customer segmentation, data privacy, and ethical web development principles shaped this innovative CX tool.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "segmentor",
+      "segmentor.app",
+      "Apostles Model",
+      "customer segmentation",
+      "customer experience",
+      "CX",
+      "customer satisfaction",
+      "customer loyalty",
+      "customer insights",
+      "CX tools",
+      "customer analytics",
+      "data privacy",
+      "web development",
+      "entrepreneurship",
+      "product development",
+      "customer data",
+      "data security",
+      "privacy by design",
+      "cookie-free websites",
+      "accessibility",
+      "WCAG",
+      "customer retention",
+      "customer behavior",
+      "CX strategy",
+      "customer journey mapping"
     ]
   },
   {
@@ -222,7 +283,7 @@
   {
     "slug": "is-the-customer-always-right-navigating-the-wrong-customer-dilemma",
     "title": "Is the Customer Always Right? Navigating the 'Wrong Customer' Dilemma",
-    "excerpt": "At one point, I asked the panel about what Jones and Sasser1 defined as \"wrong customers\" and one of the experts, quite rightly said: \"We have to be careful how we label our customers. We surely don't have \"wrong\" customers\".",
+    "excerpt": "Explore the 'wrong customer' dilemma in customer experience strategy. Discover why customer segmentation matters, how to prevent difficult customer relationships, and strategies for managing unprofitable customers while maintaining customer centricity.",
     "categories": [
       "Blog"
     ],
@@ -243,6 +304,30 @@
       "customer segmentation",
       "customer service",
       "wrong customers"
+    ]
+  },
+  {
+    "slug": "why-an-nps-of-95-is-a-red-flag-not-a-trophy",
+    "title": "Why an NPS® of 95 Is a Red Flag, Not a Trophy",
+    "excerpt": "An NPS® of 95 sounds impressive, but it's technically dubious and often a sign of a gamed system rather than genuine customer loyalty. Learn why such 'perfect' scores should raise questions, not applause.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "NPS®",
+      "Net Promoter Score℠",
+      "customer experience",
+      "CX",
+      "customer feedback",
+      "CX metrics",
+      "customer satisfaction",
+      "survey manipulation",
+      "CX measurement",
+      "Voice of Customer",
+      "VoC",
+      "customer loyalty",
+      "NPS® benchmarks",
+      "CX best practices"
     ]
   },
   {
@@ -298,16 +383,42 @@
     ]
   },
   {
-    "slug": "successful-cx-programs-beyond-surveys",
-    "title": "Successful CX Programs Beyond Surveys",
-    "excerpt": "Your colleagues in Sales, Marketing, Customer Service, Product, Ops and other departments play a role in Customer Experience. They don't necessarily want to be told how to do their jobs, but they probably want tools that help them do their jobs better, more effectively and more appreciated.",
+    "slug": "should-all-websites-ditch-the-cookie-jar-rethinking-privacy-in-a-tracking-obsessed-world",
+    "title": "Should All Websites Ditch the Cookie Jar? Rethinking Privacy in a Tracking-Obsessed World",
+    "excerpt": "In a world obsessed with tracking, should websites abandon cookies? Exploring how privacy-by-design creates better customer experiences and why transparency matters more than data collection.",
     "categories": [
       "Blog"
     ],
     "tags": [
-      "Continuous Improvement",
-      "Cross Functional Teams",
       "customer experience",
+      "CX",
+      "privacy",
+      "cookies",
+      "tracking",
+      "digital footprint",
+      "ad blockers",
+      "VPN",
+      "data protection",
+      "GDPR",
+      "user privacy",
+      "web design",
+      "accessibility",
+      "secure browsing",
+      "no tracking"
+    ]
+  },
+  {
+    "slug": "successful-cx-programs-beyond-surveys",
+    "title": "Successful CX Programs Beyond Surveys",
+    "excerpt": "Build successful CX programs that go beyond surveys. Learn how cross-functional teams, customer intimacy, and employee engagement create sustainable customer experience improvements that drive revenue and customer retention.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "continuous improvement",
+      "cross functional teams",
+      "customer experience",
+      "CX",
       "customer feedback",
       "customer insights",
       "customer intimacy",
@@ -316,11 +427,14 @@
       "CX champions",
       "CX communication",
       "CX programme",
+      "CX program",
       "employee involvement",
       "internal engagement",
       "Kaizen",
       "survey strategy",
-      "voice of customer"
+      "voice of customer",
+      "customer experience strategy",
+      "CX best practices"
     ]
   },
   {
@@ -353,7 +467,7 @@
   {
     "slug": "the-absurdity-of-closed-box-only-return-policies-a-customer-experience-fail",
     "title": "The Absurdity of Closed-Box-Only Return Policies: A Customer Experience Fail",
-    "excerpt": "Can anyone tell me what's the point of a closed-box-only return policy? Because I can't figure it out.",
+    "excerpt": "Closed-box-only return policies create poor customer experiences and reduce sales. Discover why restrictive return policies damage customer trust, hurt retail strategy, and fail to protect businesses effectively.",
     "categories": [
       "Blog"
     ],
@@ -448,7 +562,7 @@
   {
     "slug": "the-digital-privacy-paradox-how-cookie-consent-became-a-nightmare-for-customer-experience",
     "title": "The Digital Privacy Paradox: How Cookie Consent Became a Nightmare for Customer Experience",
-    "excerpt": "I've been using a VPN for a while, and I'm shocked by how many websites I simply can't access privately. Websites use cookies to the maximum, taking everything from you without you even noticing.",
+    "excerpt": "Cookie consent banners have become a customer experience nightmare. Discover how GDPR compliance, cookie tracking, and privacy-by-design impact user experience and learn strategies for transparent data privacy that builds customer trust.",
     "categories": [
       "Blog"
     ],
@@ -465,6 +579,74 @@
       "digital privacy",
       "transparency",
       "trust"
+    ]
+  },
+  {
+    "slug": "the-discount-dilemma-do-promotions-build-loyalty-or-just-train-deal-hunters",
+    "title": "The Discount Dilemma: Do Promotions Build Loyalty or Just Train Deal-Hunters?",
+    "excerpt": "Do discounts build customer loyalty or just train customers to wait for the next deal? Explore the psychology of promotions, their impact on brand perception, and discover win-win alternatives that build genuine customer relationships without creating deal-hunting behavior.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "customer experience",
+      "CX",
+      "discounts",
+      "promotions",
+      "customer loyalty",
+      "pricing strategy",
+      "marketing psychology",
+      "consumer behavior",
+      "personalization",
+      "value-added perks",
+      "loyalty programs",
+      "price sensitivity",
+      "CX pitfalls",
+      "customer retention",
+      "win-win alternatives",
+      "deal-hunting",
+      "brand perception",
+      "customer acquisition",
+      "FOMO",
+      "customer lifetime value",
+      "mercenary customers",
+      "brand advocates",
+      "retail strategy",
+      "e-commerce strategy"
+    ]
+  },
+  {
+    "slug": "the-evolution-of-ces-from-service-saviour-to-journey-juggernaut",
+    "title": "The Evolution of CES: From Service Saviour to Journey Juggernaut – And Why Your KPIs Need to Play Tag Team",
+    "excerpt": "Discover how the Customer Effort Score (CES) evolved from a customer service metric to a journey-wide tool for measuring ease. Learn why a tailored multi-KPI strategy combining CES, CSAT, and NPS® delivers deeper customer insights and stronger customer loyalty than any single metric alone.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "Customer Effort Score",
+      "CES",
+      "customer experience",
+      "CX",
+      "CSAT",
+      "Customer Satisfaction Score",
+      "NPS®",
+      "Net Promoter Score℠",
+      "CX metrics",
+      "CX KPIs",
+      "customer loyalty",
+      "customer journey",
+      "customer service",
+      "KPI strategy",
+      "moments of truth",
+      "customer segmentation",
+      "Apostles Model",
+      "customer retention",
+      "CX measurement",
+      "CX best practices",
+      "friction reduction",
+      "customer insights",
+      "multi-KPI strategy",
+      "survey design"
     ]
   },
   {
@@ -576,11 +758,14 @@
       "feedback",
       "insight",
       "process",
-      "Survey",
+      "surveys",
       "customer experience",
       "CX",
       "survey fatigue",
-      "customer feedback"
+      "customer feedback",
+      "survey design",
+      "feedback collection",
+      "customer insights"
     ]
   },
   {
@@ -608,9 +793,33 @@
     ]
   },
   {
+    "slug": "why-an-nps-of-95-is-a-red-flag-not-a-trophy",
+    "title": "Why an NPS® of 95 Is a Red Flag, Not a Trophy",
+    "excerpt": "An NPS® of 95 sounds impressive, but it's technically dubious and often a sign of a gamed system rather than genuine customer loyalty. Learn why such 'perfect' scores should raise questions, not applause.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "NPS®",
+      "Net Promoter Score℠",
+      "customer experience",
+      "CX",
+      "customer feedback",
+      "CX metrics",
+      "customer satisfaction",
+      "survey manipulation",
+      "CX measurement",
+      "Voice of Customer",
+      "VoC",
+      "customer loyalty",
+      "NPS® benchmarks",
+      "CX best practices"
+    ]
+  },
+  {
     "slug": "why-forcing-survey-responses-destroys-your-data",
     "title": "Why Forcing Survey Responses Destroys Your Data",
-    "excerpt": "I received a survey from the BBC today. Probably like millions of other people. Like everyone else, I don't respond to every survey in my inbox, but I actually wanted to participate in this one.",
+    "excerpt": "Forcing mandatory survey responses destroys data quality and creates survey fatigue. Learn why allowing optional questions improves response rates, data accuracy, and customer experience in market research and customer feedback collection.",
     "categories": [
       "Blog"
     ],
